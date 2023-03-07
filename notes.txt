@@ -1,0 +1,7 @@
+
+:PlugInstall -> Install plugins
+:PLugClean -> Remove a plugin
+
+surrounding -> ysiw will surround with anything
+gcc -> will comment a line
+
